@@ -1,5 +1,5 @@
 
-Link to the github - https://github.com/Bitazee/casestudy.fullstack_webapplication
+Link to the github - https://github.com/Bitazee/CASE_STUDY
 # Full Stack Web Application
 
 * **Objective** - to create an implementation of a web service
